@@ -60,4 +60,4 @@ for lis in lits:
 	file = Filelister('mytxt.txt', lis)
 	file.lister()
 
-input("============The End (T-T)=============")
+input("============The End (T-T)============")
